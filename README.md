@@ -21,8 +21,8 @@ BaixaCoisas é uma interface web moderna para o **yt-dlp**, combinando **Python 
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/BaixaCoisas.git
-   cd BaixaCoisas
+   git clone https://github.com/lenmuo/baixacoisas.git
+   cd baixacoisas
    ```
 
 2. **Crie e Ative um Ambiente Virtual (Opcional, mas Recomendado):**
@@ -67,4 +67,4 @@ Fique à vontade para abrir **issues** e **pull requests** para melhorias!
 
 ## Licença
 
-Este projeto está sob a licença **MIT**.
+Este projeto é livre para ser adaptado como você quiser, não tendo licença em específico.
